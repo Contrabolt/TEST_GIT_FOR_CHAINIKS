@@ -187,6 +187,19 @@ git push -u origin master
 
 ### Бонус! mermaid-схемы
 
+Подробнее на https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
+
+Пример кода для простой схемы
+```
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
+```
+
 ```mermaid
 graph TD;
 A-->B;
@@ -195,12 +208,4 @@ B-->D;
 C-->D;
 ```
 
-```
-```mermaid
-graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
-```
-```
+
