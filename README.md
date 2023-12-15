@@ -198,7 +198,6 @@ A-->C;
 B-->D;
 C-->D;
 ```
-```
 
 ```mermaid
 graph TD;
