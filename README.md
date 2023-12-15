@@ -188,7 +188,7 @@ git push -u origin master
 ### Бонус! mermaid-схемы
 
 ```mermaid
-grapg TD;
+graph TD;
 A-->B;
 A-->C;
 B-->D;
